@@ -1,0 +1,2 @@
+git+https://github.com/unbit/uwsgi@b55d659c2ef6fb80b3b5d70192b1271992c393fc
+falcon==1.2.0
